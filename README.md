@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Social Media clone**
 
-- 🌱 I’m currently learning **Next-js, Nodejs, AWS technology**
+- 🌱 I’m currently learning **Reactjs, Next-js, Nodejs, AWS technology**
 
 - 👯 I’m looking to collaborate on **Full Stack Project**
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **React, Next-js, AWS**
 
-- 📫 How to reach me **jaishukla9128@gmail.com**
+- 📫 How to reach me **iamshuklajai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
