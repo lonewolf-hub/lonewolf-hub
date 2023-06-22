@@ -11,6 +11,12 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+<div align="center">
+  <p><b>Visitor Count</b></b></p>
+
+![Visitor Count](https://profile-counter.glitch.me/{lonewolf-hub}/count.svg)
+
+</div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -88,14 +94,6 @@
 <a href="#" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   
 </p>
-
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=lonewolf&label=Profile%20Views&color=9&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-
-  
-</div>
 
 <br> 
 
