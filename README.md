@@ -11,8 +11,8 @@
 </div>
 
 <br>
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-<br>
+ 
+ <picture><img src = "https://github.com/lonewolf-hub/lonewolf-hub/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lonewolf-hub&label=Profile%20views&color=0e75b6&style=flat" alt="lonewolf-hub" /> </p>
 
@@ -48,4 +48,14 @@
   </td>
 </tr>
 </table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=lonewolf-hub&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+</p>        
 <!--- stats (end) -->
