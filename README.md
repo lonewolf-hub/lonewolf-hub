@@ -12,17 +12,11 @@
        alt="snake" /></a>
 </div>
 
-<br>
- 
-## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture>
-  <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./assets/mdImages/programming.svg" width=300px>
-</picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br>
-
+<br><br>
 
 - Hello, and welcome to my GitHub profile! My name is Jai Shukla, and I am a self-taught front-end developer with a passion for creating engaging and user-friendly web applications. 
 
@@ -100,3 +94,11 @@
 [![](https://visitcount.itsvg.in/api?id=lonewolf&label=Profile%20Views&color=9&icon=0&pretty=true)](https://visitcount.itsvg.in)
   
 </div>
+
+<br> 
+
+---
+
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
