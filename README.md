@@ -102,7 +102,8 @@
 ---
 
 <div align="center">
-	
+😜<b>Here's a Joke for you:</b>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 </div>
