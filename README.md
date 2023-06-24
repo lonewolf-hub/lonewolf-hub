@@ -3,16 +3,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--profile visit count-->
 
+![followers](https://img.shields.io/github/followers/lonewolf-hub?style=social)
+![stars](https://img.shields.io/github/stars/lonewolf-hub?style=social)
 
 <h1 align="center">Hi , I'm Jai shukla </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
 <!--- snake -->
 <div align="center">
+
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 <div align="center">
-  <p><b>Visitor Count</b></b></p>
+  <p><b>Visitor's Count</b></b></p>
 
 ![Visitor Count](https://profile-counter.glitch.me/{lonewolf-hub}/count.svg)
 
@@ -26,23 +30,29 @@
 
 Hello there! I'm Jai Shukla, a passionate frontend developer with a strong focus on React.js. 🚀
 
-💡 With an insatiable curiosity for technology and a knack for problem-solving, I'm constantly exploring the ever-evolving world of web development. As a student, I'm driven to push the boundaries of what's possible, transforming ideas into elegant and user-friendly digital experiences.
+👩‍💻 Frontend Developer | React.js Enthusiast | Curious Student | Tech Enthusiast
 
-🌟 My journey in web development began during my early college days when I stumbled upon React.js. It was love at first sight! The way React allows me to build dynamic and interactive interfaces with reusable components is simply captivating.
+💡 Passionate about crafting delightful user experiences with React.js. Always eager to learn and improve.
 
-💻 Armed with a solid foundation in HTML, CSS, and JavaScript, I've honed my skills in front-end development, specializing in React.js. I thrive on turning complex concepts into clean and efficient code, creating seamless user experiences that leave a lasting impression.
+💻 Solid foundation in HTML, CSS, and JavaScript. Specializing in frontend development with React.js.
 
-📚 Continuous learning is at the core of my approach. I stay up-to-date with the latest trends, tools, and techniques in the frontend ecosystem. Whether it's exploring new libraries, experimenting with state management, or diving into the world of responsive design, I'm always ready to expand my knowledge and refine my craft.
+🌟 Stay up-to-date with the latest trends and tools in the frontend ecosystem. Embrace continuous learning.
 
-👨‍💻 Collaboration is key! I enjoy working in diverse teams, leveraging the collective expertise to deliver high-quality projects. I strongly believe in the power of effective communication and open-mindedness when it comes to solving complex problems and achieving shared goals.
+👩‍🔬 Collaborative mindset, thrive in diverse teams. Effective communication and open-mindedness.
 
-✨ When I'm not coding, you can find me watching anime. I'm also an avid supporter of the open-source community and enjoy contributing to projects that make a positive impact.
+📚 Avid reader and tech advocate. Engrossed in Anime, attending tech meetups, and tinkering with side projects.
 
-🌟 Let's connect! I'm excited to be part of a community where I can share my knowledge, learn from others, and collaborate on exciting frontend projects. Feel free to reach out to me for discussions, collaborations, or just to geek out about the latest tech trends!
-
-📧 Email: iamshuklajai@gmail.com
-Happy coding! 😄
+🌟 Let's connect and explore frontend development together! Reach out for discussions, collaborations, or to share tech trends.
 <br><br>
+<div align="center">
+<p><a href="mailto:iamshuklajai@gmail.com">📧 Email: iamshuklajai@gmail.com</a></p>
+
+</div>
+
+<div align="center">
+Happy coding! 😄
+	</div>
+<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Technologies That I Know</b>
