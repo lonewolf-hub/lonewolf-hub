@@ -20,21 +20,28 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
 <br><br>
 
-- Hello, and welcome to my GitHub profile! My name is Jai Shukla, and I am a self-taught front-end developer with a passion for creating engaging and user-friendly web applications. 
+Hello there! I'm Jai Shukla, a passionate frontend developer with a strong focus on React.js. 🚀
 
-- Currently, I have completed my Bachelor's degree in Computer Science, where I am also learning and expanding my knowledge in software development.
+💡 With an insatiable curiosity for technology and a knack for problem-solving, I'm constantly exploring the ever-evolving world of web development. As a student, I'm driven to push the boundaries of what's possible, transforming ideas into elegant and user-friendly digital experiences.
 
-- As a self-taught developer, I have taken the initiative to learn the latest technologies and techniques for creating dynamic and engaging user interfaces.
+🌟 My journey in web development began during my early college days when I stumbled upon React.js. It was love at first sight! The way React allows me to build dynamic and interactive interfaces with reusable components is simply captivating.
 
--  Through practice and experimentation, I have honed my skills in HTML, CSS, JavaScript,Reactjs.
+💻 Armed with a solid foundation in HTML, CSS, and JavaScript, I've honed my skills in front-end development, specializing in React.js. I thrive on turning complex concepts into clean and efficient code, creating seamless user experiences that leave a lasting impression.
 
-- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:iamshuklajai@gmail.com">iamshuklajai@gmail.com</a>
+📚 Continuous learning is at the core of my approach. I stay up-to-date with the latest trends, tools, and techniques in the frontend ecosystem. Whether it's exploring new libraries, experimenting with state management, or diving into the world of responsive design, I'm always ready to expand my knowledge and refine my craft.
 
-- Thank you for visiting my profile, and I look forward to connecting with you!
+👨‍💻 Collaboration is key! I enjoy working in diverse teams, leveraging the collective expertise to deliver high-quality projects. I strongly believe in the power of effective communication and open-mindedness when it comes to solving complex problems and achieving shared goals.
+
+✨ When I'm not coding, you can find me watching anime. I'm also an avid supporter of the open-source community and enjoy contributing to projects that make a positive impact.
+
+🌟 Let's connect! I'm excited to be part of a community where I can share my knowledge, learn from others, and collaborate on exciting frontend projects. Feel free to reach out to me for discussions, collaborations, or just to geek out about the latest tech trends!
+
+📧 Email: iamshuklajai@gmail.com
+Happy coding! 😄
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
