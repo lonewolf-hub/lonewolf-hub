@@ -78,7 +78,7 @@ Happy coding! 😄
  
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lonewolf-hub&show_icons=true&theme=dark#gh-dark-mode-only"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lonewolf-hub&theme=dark&hide_border=false" /> 
+ <!-- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lonewolf-hub&theme=dark&hide_border=false" /> --> 
 </td>
 
 <td width="50%" align="center">
@@ -99,6 +99,12 @@ Happy coding! 😄
 <!--- trophy (start) -->
 </p>        
 <!--- stats (end) -->
+
+<p align="center">
+  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonewolf-hub&theme=dark&hide_border=true"/>
+  <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
+</p>
 
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
 <br>
