@@ -7,7 +7,7 @@
 ![stars](https://img.shields.io/github/stars/lonewolf-hub?style=social)
 
 <h1 align="center">Hi , I'm Jai shukla </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<h1 align="center">If you like my work Please give my repo a star</h1>
 
 <!--- <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a> -->
 <div align="center">
