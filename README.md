@@ -9,11 +9,10 @@
 <h1 align="center">Hi , I'm Jai shukla </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-<!--- snake -->
+<!--- <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a> -->
 <div align="center">
-
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+	
+![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
 </div>
 <div align="center">
   <p><b>Visitor's Count</b></b></p>
@@ -55,7 +54,7 @@ Happy coding! 😄
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Technologies That I Know</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Technologies That I Know</b>
 <br>
 <!--tech stack icons-->
 <p align="center">
@@ -101,7 +100,7 @@ Happy coding! 😄
 
 <p align="center">
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonewolf-hub&theme=dark&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonewolf-hub&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl"/>
   <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp">
 </p>
 <br>
@@ -117,8 +116,8 @@ Happy coding! 😄
 
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lonewolf-hub&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolf-hub&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lonewolf-hub&show_icons=true&hide_border=true&title_color=fe428e&amp&icon_color=FFFFFF&amp&text_color=f1f1eb&amp&bg_color=30,434343,000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolf-hub&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb&langs_count=15&layout=compact&hide_border=true" />
 </p>
 <p align="center">
 <!--- trophy (start) -->
@@ -150,6 +149,21 @@ Happy coding! 😄
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
+</div>
+
+<div align="center">
+	
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lonewolf-hub&theme=dracula)
 
 </div>
-		
+
+
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
+
+Credit: [Jai Shukla](https://github.com/lonewolf-hub)
+
+Last Edited on: 26/6/2023
