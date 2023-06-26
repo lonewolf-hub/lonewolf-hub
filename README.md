@@ -116,8 +116,8 @@ Happy coding! 😄
 
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lonewolf-hub&show_icons=true&hide_border=true&title_color=fe428e&amp&icon_color=FFFFFF&amp&text_color=f1f1eb&amp&bg_color=30,434343,000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolf-hub&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb&langs_count=15&layout=compact&hide_border=true" />
+	<img  align="center" src="https://github-readme-stats.vercel.app/api?username=lonewolf-hub&theme=calm&show_icons=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolf-hub&theme=calm&langs_count=15&layout=compact" />
 </p>
 <p align="center">
 <!--- trophy (start) -->
