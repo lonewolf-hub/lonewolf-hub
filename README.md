@@ -15,10 +15,22 @@
 	
 ![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
 </div>
+
+<!---
 <div align="center">
-  <p><b>Visitor's Count</b></b></p>
+<img  align="center" src="https://media.tenor.com/X72Xa_kBtvUAAAAi/sharingan.gif"/>
+<img  align="center" src="https://media.tenor.com/X72Xa_kBtvUAAAAi/sharingan.gif"/>
+</div>
+-->
+<br/>
+<div align="center">
+<img  align="center" src="https://media.tenor.com/hIqInZE5_xMAAAAM/sharingan-itachi.gif"/>
+</div>
+	
+<div align="center">
 
 ![Visitor Count](https://profile-counter.glitch.me/{lonewolf-hub}/count.svg)
+  <p><b>Visitor's Count</b></b></p>
 
 </div>
 
@@ -163,8 +175,13 @@ Happy coding! 😄
 <h1 >If you like my work.Please give my repo a star </b><img src="https://media2.giphy.com/media/X8HopTCcAlKJYqNwvs/giphy.gif?cid=ecf05e47eds4lktzl6480h5io5nkzo5rx3o5mtd5jds9j5eo&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150"></h1>
 </div>
 
+
 <p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+	
+<img height="391" src="https://media.tenor.com/wFd-Ig2AN0UAAAAM/itachi-fortnite.gif" />
+
+<img src="https://media.tenor.com/gv4tePys0cEAAAAM/itachi-uchiha-naruto.gif" />
+
 </p>
 
 
