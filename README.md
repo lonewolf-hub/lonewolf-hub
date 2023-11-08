@@ -49,7 +49,7 @@
 
 <br><br>
 
-Hello there! I'm Jai Shukla, a passionate frontend developer with a strong focus on React.js. 🚀
+Hello there! I'm Jai Shukla, a passionate fullstack developer 🚀
 
 👩‍💻 Frontend Developer | React.js Enthusiast | Curious Student | Tech Enthusiast
 
@@ -117,7 +117,7 @@ Happy coding! 😄
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"><b> Github Stats </b>
 <br><br>
 
 <p align="center">
