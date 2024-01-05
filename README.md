@@ -49,21 +49,21 @@
 
 <br><br>
 
-Hello there! I'm Jai Shukla, a passionate fullstack developer 🚀
+👨‍💻 Full Stack Developer | Next.js & TypeScript Enthusiast | Inquisitive Learner | Tech Enthusiast
 
-👩‍💻 Frontend Developer | React.js Enthusiast | Curious Student | Tech Enthusiast
+💡 Dedicated to creating seamless user experiences with Next.js and TypeScript. Always hungry for knowledge and continuous improvement.
 
-💡 Passionate about crafting delightful user experiences with React.js. Always eager to learn and improve.
+💻 Strong foundation in HTML, CSS, and JavaScript. Specializing in both frontend and backend development, with expertise in Next.js and TypeScript.
 
-💻 Solid foundation in HTML, CSS, and JavaScript. Specializing in frontend development with React.js.
+🌟 Keeping pace with the latest trends and tools in the fullstack ecosystem. Committed to ongoing learning and growth.
 
-🌟 Stay up-to-date with the latest trends and tools in the frontend ecosystem. Embrace continuous learning.
+👨‍🔬 Thriving in collaborative environments, I excel in diverse teams with effective communication and an open-minded approach.
 
-👩‍🔬 Collaborative mindset, thrive in diverse teams. Effective communication and open-mindedness.
+📚 Enthusiastic reader and tech advocate. Immersed in Anime, active participant in tech meetups, and constantly experimenting with side projects.
 
-📚 Avid reader and tech advocate. Engrossed in Anime, attending tech meetups, and tinkering with side projects.
+🌟 Currently, I am a full stack developer working with Next.js and TypeScript. My experience extends to Firebase, MongoDB, SQL, and I am eager to dive into mobile development, particularly with technologies like Flutter.
 
-🌟 Let's connect and explore frontend development together! Reach out for discussions, collaborations, or to share tech trends.
+🚀 Let's connect and delve into the exciting world of fullstack development together! Whether it's discussions, collaborations, or sharing the latest tech trends, feel free to reach out.
 <br><br>
 <div align="center">
 <p><a href="mailto:iamshuklajai@gmail.com">📧 Email: iamshuklajai@gmail.com</a></p>
@@ -179,10 +179,6 @@ Happy coding! 😄
 
 </div>
 
-
-<div align="center">
-<h1 >If you like my work.Please give my repo a star </b><img src="https://media2.giphy.com/media/X8HopTCcAlKJYqNwvs/giphy.gif?cid=ecf05e47eds4lktzl6480h5io5nkzo5rx3o5mtd5jds9j5eo&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150"></h1>
-</div>
 
 
 <p align="center">
