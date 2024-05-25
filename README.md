@@ -9,7 +9,7 @@
 <!--
 <img src="https://komarev.com/ghpvc/?username=lonewolf-hub&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> 
 -->
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
 <h1 align="center">Hi , I'm Jai shukla </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -49,21 +49,21 @@
 
 <br><br>
 
-👨‍💻 Full Stack Developer | Next.js & TypeScript Enthusiast | Inquisitive Learner | Tech Enthusiast
+👨‍💻 Full Stack Developer | Next.js & TypeScript Enthusiast
 
-💡 Dedicated to creating seamless user experiences with Next.js and TypeScript. Always hungry for knowledge and continuous improvement.
+💡 Passionate about creating seamless user experiences with Next.js and TypeScript, constantly learning and improving.
 
-💻 Strong foundation in HTML, CSS, and JavaScript. Specializing in both frontend and backend development, with expertise in Next.js and TypeScript.
+💻 Proficient in HTML, CSS, and JavaScript. Specializing in frontend and backend development with expertise in Next.js and TypeScript.
 
-🌟 Keeping pace with the latest trends and tools in the fullstack ecosystem. Committed to ongoing learning and growth.
+🌟 Staying updated with the latest fullstack trends and tools. Committed to continuous learning and growth.
 
-👨‍🔬 Thriving in collaborative environments, I excel in diverse teams with effective communication and an open-minded approach.
+👨‍🔬 Collaborative and communicative, thriving in diverse team environments.
 
-📚 Enthusiastic reader and tech advocate. Immersed in Anime, active participant in tech meetups, and constantly experimenting with side projects.
+📚 Tech advocate and avid reader. Anime fan, tech meetup participant, and side project experimenter.
 
-🌟 Currently, I am a full stack developer working with Next.js and TypeScript. My experience extends to Firebase, MongoDB, SQL, and I am eager to dive into mobile development, particularly with technologies like Flutter.
+🌟 Currently working with Next.js, TypeScript, Firebase, MongoDB, and SQL. Eager to explore mobile development with Flutter.
 
-🚀 Let's connect and delve into the exciting world of fullstack development together! Whether it's discussions, collaborations, or sharing the latest tech trends, feel free to reach out.
+🚀 Let's connect! Open to discussions, collaborations, and sharing tech trends.
 <br><br>
 <div align="center">
 <p><a href="mailto:iamshuklajai@gmail.com">📧 Email: iamshuklajai@gmail.com</a></p>
@@ -80,7 +80,7 @@ Happy coding! 😄
 <br>
 <!--tech stack icons-->
 <p align="center">
-  <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966"/>
+  <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://media.tenor.com/65M0eCILpo0AAAAi/avatar-the-last-airbender-aang.gif"/>
 <br/>
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
@@ -192,4 +192,4 @@ Happy coding! 😄
 
 Credit: [Jai Shukla](https://github.com/lonewolf-hub)
 
-Last Edited on: 1/7/2023
+Last Edited on: 10/5/2024
