@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!--profile visit count-->
@@ -7,9 +6,10 @@
 ![stars](https://img.shields.io/github/stars/lonewolf-hub?style=social)
 
 <!--
-<img src="https://komarev.com/ghpvc/?username=lonewolf-hub&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> 
+<img src="https://komarev.com/ghpvc/?username=lonewolf-hub&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" />
 -->
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
 <h1 align="center">Hi , I'm Jai shukla </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -20,7 +20,7 @@
 </div>
 
 <!-- <div align="center">
-	
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/itsmeshibintmz/itsmeshibintmz/8c4c442a1c6a6c7b963e5d473e5aec52c42b5ea3/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
 </div> -->
 <!---
@@ -33,7 +33,7 @@
 <div align="center">
 <img  align="center" src="https://media.tenor.com/hIqInZE5_xMAAAAM/sharingan-itachi.gif"/>
 </div>
-	
+	<br>
 <div align="center">
 	
 ![](https://komarev.com/ghpvc/?username=lonewolf-hub)
@@ -61,6 +61,7 @@ My current stack includes JavaScript, TypeScript, Next.js, React, Tailwind CSS, 
 Outside of work, I enjoy contributing to side projects, staying up to date with the latest tech trends, and being part of developer communities. I’m always open to good conversations, new collaborations, and ideas worth building.
 
 <br><br>
+
 <div align="center">
 <p><a href="mailto:iamshuklajai@gmail.com">📧 Email: iamshuklajai@gmail.com</a></p>
 
@@ -73,17 +74,17 @@ Happy coding! 😄
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Technologies That I Know</b>
+
 <br>
 <!--tech stack icons-->
 <p align="center">
   <img align="left" height="300px" width="300px" alt="𝙶𝙸𝙵" src="https://media.tenor.com/65M0eCILpo0AAAAi/avatar-the-last-airbender-aang.gif"/>
 <br/>
 
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**
 
 <br/>
 <br/>
-
 
 <code><img height="40" width="40" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"></code>
 <code><img height="40" width="40" src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png"></code>
@@ -107,13 +108,12 @@ Happy coding! 😄
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 
-
-</p>
------
+## </p>
 
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"><b> Github Stats </b>
+
 <br><br>
 
 <p align="center">
@@ -124,7 +124,6 @@ Happy coding! 😄
 <br>
 <br>
 <div align=center>
-
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lonewolf-hub&theme=dracula)
 
@@ -138,7 +137,6 @@ Happy coding! 😄
 <br>
 <br>
 
-
 <p align="center">
 	<img  align="center" src="https://github-readme-stats.vercel.app/api?username=lonewolf-hub&theme=calm&show_icons=true&include_all_commits=false&count_private=false"/>
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lonewolf-hub&theme=calm&langs_count=15&layout=compact" />
@@ -150,9 +148,8 @@ Happy coding! 😄
 </p>        
 <!--- stats (end) --->
 
-
-
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
+
 <br>
 <!--icons and links-->
 <p align="center">
@@ -164,7 +161,7 @@ Happy coding! 😄
   
 </p>
 
-<br> 
+<br>
 
 ---
 
@@ -175,8 +172,6 @@ Happy coding! 😄
 
 </div>
 
-
-
 <p align="center">
 	
 <img height="391" src="https://media.tenor.com/wFd-Ig2AN0UAAAAM/itachi-fortnite.gif" />
@@ -184,7 +179,6 @@ Happy coding! 😄
 <img src="https://media.tenor.com/gv4tePys0cEAAAAM/itachi-uchiha-naruto.gif" />
 
 </p>
-
 
 Credit: [Jai Shukla](https://github.com/lonewolf-hub)
 
