@@ -36,8 +36,7 @@
 	
 <div align="center">
 	
-![Visitor Count](https://profile-counter.glitch.me/{lonewolf-hub}/count.svg)
-
+![](https://komarev.com/ghpvc/?username=lonewolf-hub)
 
   <p><b>Visitor's Count</b></b></p>
 
@@ -49,21 +48,18 @@
 
 <br><br>
 
-👨‍💻 Full Stack Developer | Next.js & TypeScript Enthusiast
+## 👨‍💻 About Me
 
-💡 Passionate about creating seamless user experiences with Next.js and TypeScript, constantly learning and improving.
+IAM a Full Stack Developer who enjoys building clean, efficient, and reliable web applications. I mostly work with TypeScript, Next.js, and React, and I care about writing code that’s easy to maintain, scales well, and performs efficiently in production.
 
-💻 Proficient in HTML, CSS, and JavaScript. Specializing in frontend and backend development with expertise in Next.js and TypeScript.
+I like working across both the frontend and backend. Whether it's building seamless user interfaces or designing robust backend logic, I try to create solutions that are both thoughtful and practical. Lately, I’ve been exploring decentralized technologies and experimenting with new ways to solve real-world problems through the web.
 
-🌟 Staying updated with the latest fullstack trends and tools. Committed to continuous learning and growth.
+What drives me is curiosity and the challenge of problem-solving. I see every project as an opportunity to improve and learn something new. I enjoy working on systems that combine design and logic, and I try to bring that balance into everything I build.
 
-👨‍🔬 Collaborative and communicative, thriving in diverse team environments.
+My current stack includes JavaScript, TypeScript, Next.js, React, Tailwind CSS, Node.js, Firebase, and MongoDB. I’ve also been exploring mobile development with Flutter and looking into different ways to deliver interactive user experiences.
 
-📚 Tech advocate and avid reader. Anime fan, tech meetup participant, and side project experimenter.
+Outside of work, I enjoy contributing to side projects, staying up to date with the latest tech trends, and being part of developer communities. I’m always open to good conversations, new collaborations, and ideas worth building.
 
-🌟 Currently working with Next.js, TypeScript, Firebase, MongoDB, and SQL. Eager to explore mobile development with Flutter.
-
-🚀 Let's connect! Open to discussions, collaborations, and sharing tech trends.
 <br><br>
 <div align="center">
 <p><a href="mailto:iamshuklajai@gmail.com">📧 Email: iamshuklajai@gmail.com</a></p>
