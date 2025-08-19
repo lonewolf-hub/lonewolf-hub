@@ -65,7 +65,7 @@ I am a **Full Stack Developer** who loves building **clean, efficient, and scala
 ## 🕊️ Total Contributions
 <p align="center">
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp" width="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lonewolf-hub&theme=transparent&hide_border=true&ring=ff3068&fire=ff3068&currStreakLabel=ff3068" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonewolf-hub&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl"/>
   <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp" width="140" />
 </p>
 
