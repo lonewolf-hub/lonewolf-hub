@@ -41,14 +41,21 @@ I am a **Full Stack Developer** who loves building **clean, efficient, and scala
 
 📧 Reach me: **[iamshuklajai@gmail.com](mailto:iamshuklajai@gmail.com)**  
 
----
 
-## 🛠️ Technologies & Tools
+## 🕊️ Total Contributions
+
 <p align="center">
   <img height="260" width="260" src="https://media.tenor.com/65M0eCILpo0AAAAi/avatar-the-last-airbender-aang.gif" alt="Avatar Gif"/>
 </p>
+<p align="center">
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp" width="140" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lonewolf-hub&theme=highcontrast&border_radius=4&short_numbers=true&hide=html,Tcl"/>
+  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp" width="140" />
+</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lonewolf-hub&theme=highcontrast&border_radius=4&short_numbers=true)](https://git.io/streak-stats)
+---
+
+## 🛠️ Technologies & Tools
 
 ### Languages
 `C` · `C++` · `JavaScript` · `TypeScript` · `Java` · `Python`
@@ -64,12 +71,7 @@ I am a **Full Stack Developer** who loves building **clean, efficient, and scala
 
 ---
 
-## 🕊️ Total Contributions
-<p align="center">
-  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/left.webp" width="140" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lonewolf-hub&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl"/>
-  <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/right.webp" width="140" />
-</p>
+
 ---
 
 ## 🔥 Contribution Heatmap
